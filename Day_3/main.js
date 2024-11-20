@@ -1,4 +1,5 @@
 // <---------------Even  or odd  Number ------------>
+
 let num = 12056;
 if (num%2 == 0) {
     console.log(num + " is an even number");

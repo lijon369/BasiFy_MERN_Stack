@@ -6,7 +6,7 @@ if (num%2 == 0) {
 }else{
     console.log(num + " is an odd number");
 }
-// <----------=====------- Even  or odd  Number user input-------------------->
+// <---------------- Even  or odd  Number user input-------------------->
 let userNum = parseInt(prompt("Enter a number:"));
 if (userNum%2 == 0) {
     console.log(userNum + " is an even number");
@@ -48,7 +48,7 @@ do{
     console.log("This is do while loop NO IS " + i);
     i++;
 }while (i<100);
-<--------------------------object in javascript ----------------------------------->
+// <--------------------------object in javascript ----------------------------------->
 let studentDetails = {
     name: "Anas Rayan",
     age: 20,
